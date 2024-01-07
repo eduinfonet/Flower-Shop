@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: antiquewhite;
+}
+.container {
+  width: 75%;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
